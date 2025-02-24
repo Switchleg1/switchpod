@@ -24,6 +24,10 @@ OBD2 connector (can also be taken from an elm adapter) <br>
 <img src="https://github.com/Switchleg1/switchpod/blob/main/obd2.jpg?raw=true" width="100" title="OBD2"><br>
 https://www.aliexpress.com/item/1005005626549078.html?spm=a2g0o.productlist.main.10.af992e14ducEna&algo_pvid=e4991fb9-af85-4b3d-a487-abe26a6d143c&algo_exp_id=e4991fb9-af85-4b3d-a487-abe26a6d143c-9&pdp_ext_f=%7B%22order%22%3A%22133%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%215.54%213.10%21%21%213.82%212.14%21%40210308a417403545902625950ed3b2%2112000033794901403%21sea%21CA%21780016952%21X&curPageLogUid=o7smSLsDlOLZ&utparam-url=scene%3Asearch%7Cquery_from%3A <br><br>
 
+Levelshifter (optional - required for recovery options) <br>
+<img src="https://github.com/Switchleg1/switchpod/blob/main/levelshifter.jpg?raw=true" width="100" title="Levelshifter"><br>
+https://www.aliexpress.com/item/1005006207390821.html?spm=a2g0o.productlist.main.1.2bbf3c50KelKyA&algo_pvid=14546c5c-a7cc-4456-b787-f6ffc22b9c7c&algo_exp_id=14546c5c-a7cc-4456-b787-f6ffc22b9c7c-0&pdp_ext_f=%7B%22order%22%3A%2239%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2113.09%214.19%21%21%2165.42%2120.94%21%402103205217403554440993160e563e%2112000036281669099%21sea%21CA%21780016952%21X&curPageLogUid=2vo0EI2HGdm5&utparam-url=scene%3Asearch%7Cquery_from%3A <br><br>
+
 
 Wire diagram:<br>
 <p align="center">
